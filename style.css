@@ -1,0 +1,65 @@
+html {
+  background-color: rgba(243, 198, 114, 0.801);
+}
+
+body {
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 600px;
+  margin: 12px auto;
+  padding-left: 100px;
+  padding-right: 100px;
+  border: 4px white solid;
+  border-radius: 10px;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h1 {
+  background-color: rgb(240, 202, 97);
+  border-radius: 20px;
+  padding: 12px;
+  border: 2px solid white;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+
+img {
+  width: 400px;
+  border: orange solid 3px;
+}
+
+p {
+  font-size: 18px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  font-style: italic;
+  font-size: 30px;
+}
+
+#blue {
+  color: rgb(106, 135, 231);
+  letter-spacing: 2px;
+}
+
+#orange {
+  color: rgb(253, 173, 0);
+}
+
+#red {
+  color: red;
+}
+
+a {
+  color: brown;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+}
